@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Employee_of_the_Monthv1/Library
+/Employee_of_the_Monthv1/Logs
+/Employee_of_the_Monthv1/Temp
+/Employee_of_the_Monthv1/UserSettings
